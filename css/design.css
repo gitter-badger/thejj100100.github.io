@@ -26,3 +26,43 @@ body {
   color: white;
 
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+
+    width: 200px;
+    height: 10px
+
+}
+
+a:hover, a:active {
+    background-color: #24262e;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #41434f;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+ul {
+
+  display: inline-block;
+
+}
