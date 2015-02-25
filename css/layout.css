@@ -6,10 +6,43 @@
   left: 25%;
   right: 25%;
 
+  padding-top: 50px;
+
   width: 50%;
 
   word-wrap: break-word
 
   text-align: center;
+
+  display: inline;
+
+}
+
+#footer {
+    background-color: #41434f;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    height: 50px;
+
+    display: inline;
+
+    word-wrap: break-word
+}
+
+#header {
+    background-color: #41434f;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    text-align: center;
+    height: 50px;
+
+    display: inline;
+
+    word-wrap: break-word
 
 }

@@ -1,6 +1,5 @@
 body {
 
-  font-family: 'Economica', sans-serif;
   background-color: white;
 
 }
@@ -8,4 +7,22 @@ body {
 #middle {
   box-shadow: 0px 20px 50px #000000;
   background-color: #c3c8cd;
+  font-family: 'Economica', sans-serif;
+
+}
+
+#footer {
+
+  font-family: 'Arial', sans-serif;
+  font-size: 100%;
+  color: white;
+
+}
+
+#header {
+
+  font-family: 'Arial', sans-serif;
+  font-size: 100%;
+  color: white;
+
 }
