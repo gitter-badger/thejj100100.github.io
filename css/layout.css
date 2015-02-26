@@ -15,7 +15,7 @@
   text-align: center;
 
   display: inline;
-  
+
   overflow: hidden;
 
 
@@ -31,7 +31,7 @@
     height: 50px;
 
     display: inline;
-    
+
     left: 25%;
     right: 25%;
 
@@ -46,7 +46,7 @@
     top: 0;
     text-align: center;
     height: 50px;
-    
+
     left: 25%;
     right: 25%;
 
@@ -74,8 +74,7 @@
 }
 
 
-nav li a {
-  padding: 8px 15px; 
+nav li #nav {
+  padding: 8px 15px;
   padding-top: 50%;
 }
-

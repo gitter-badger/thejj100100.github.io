@@ -38,7 +38,7 @@ li {
     float: left;
 }
 
-a {
+#nav {
     display: block;
 
     width: 200px;
@@ -65,8 +65,7 @@ a:link, a:visited {
 ul {
 
   display: inline-block;
-  
+
   margin: 0 0 3em 0;
 
 }
-
