@@ -43,6 +43,9 @@
     top: 0;
     text-align: center;
     height: 26px;
+    
+    left: 25%;
+    right: 25%;
 
     display: inline-block;
 
