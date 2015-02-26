@@ -24,6 +24,7 @@ body {
   font-family: 'Arial', sans-serif;
   font-size: 100%;
   color: white;
+  text-height: max-size;
 
 }
 
