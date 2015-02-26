@@ -44,7 +44,7 @@
     text-align: center;
     height: 26px;
 
-    display: inline;
+    display: inline-block;
 
     word-wrap: break-word
 
