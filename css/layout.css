@@ -72,3 +72,9 @@
 
     word-wrap: break-word
 }
+
+
+nav li a {
+  padding: 8px 15px; 
+}
+}
