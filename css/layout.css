@@ -57,3 +57,20 @@
 
 
 }
+
+#footer-out {
+    background-color: #41434f;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    height: 50px;
+
+    display: inline;
+    
+    left: 25%;
+    right: 25%;
+
+    word-wrap: break-word
+}
